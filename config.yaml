@@ -93,10 +93,10 @@ params:
         subtitle: Risk-Return of DJIA stocks
         title: Stock Analysis
         url: blogs/risk_return
-      #- image: pic04.jpg
-        #subtitle: Nisl Sed Aliquam
-        #title: Ipsum
-        #url: blogs/ipsum
+      - image: pic04.jpg
+        subtitle: What price should 2 people be expected to pay?
+        title: AirBnB Analytics
+        url: blogs/Project.pdf
       #- image: pic05.jpg
         #subtitle: Ipsum Dolor Sit Amet
         #title: Consequat
