@@ -81,30 +81,30 @@ params:
   tiles:
     enable: yes
     showcase:
+      - image: Johnna.jpg
+        subtitle: Facts about me
+        title: Self Introduction
+        url: blogs/blog1
+      - image: Fudan.jpg
+        subtitle: My undergrad
+        title: Fudan University
+        url: https://www.fudan.edu.cn/en/
       - image: lbs.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Risk-Return of DJIA stocks
+        title: Stock Analysis
         url: blogs/risk_return
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      #- image: pic04.jpg
+        #subtitle: Nisl Sed Aliquam
+        #title: Ipsum
+        #url: blogs/ipsum
+      #- image: pic05.jpg
+        #subtitle: Ipsum Dolor Sit Amet
+        #title: Consequat
+        #url: blogs/ipsum
+      #- image: pic06.jpg
+        #subtitle: Feugiat Amet Tempus
+        #title: Etiam
+        #url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
