@@ -96,11 +96,11 @@ params:
       - image: pic04.jpg
         subtitle: What price should 2 people be expected to pay?
         title: AirBnB Analytics
-        url: blogs/Project.pdf
-      #- image: pic05.jpg
-        #subtitle: Ipsum Dolor Sit Amet
-        #title: Consequat
-        #url: blogs/ipsum
+        url: blogs/AirBnB.html
+      - image: pic05.jpg
+        subtitle: Study Group A15
+        title: Assignment 1
+        url: blogs/GroupA15.pdf
       #- image: pic06.jpg
         #subtitle: Feugiat Amet Tempus
         #title: Etiam
